@@ -1,0 +1,50 @@
+{
+    "name":  "photo-revive",
+    "logo":  "🖌️",
+    "exe":  "PhotoRevive.exe",
+    "desc":  "Free, open-source photo restoration for Windows — upscale, denoise and colorize old scans locally. 100 MB portable, offline, MIT, no account.",
+    "topics":  [
+                   "photo-restoration",
+                   "upscaling",
+                   "colorization",
+                   "old-photos",
+                   "onnx",
+                   "ai-tools",
+                   "windows",
+                   "windows-10",
+                   "windows-11",
+                   "csharp",
+                   "dotnet",
+                   "super-resolution",
+                   "face-restore",
+                   "batch-processing",
+                   "offline",
+                   "portable",
+                   "open-source",
+                   "mit-license"
+               ],
+    "features":  [
+                     "✅ **Scan repair pipeline** — denoise, sharpen and upscale in one pass tuned for old photo scans",
+                     "✅ **Colorize mode** — grayscale photos get sensible color from a local model with a strength slider",
+                     "✅ **4x upscaling** — Real-ESRGAN-class models take a 600 px scan to print-worthy size",
+                     "✅ **Face restore pass** — optional GFPGAN-style enhancement for portraits that lost detail",
+                     "✅ **Before and after view** — wipe divider compares original and result at matching zoom",
+                     "✅ **Batch family albums** — run a folder of scans overnight with consistent settings",
+                     "✅ **100 MB self-contained exe** — runtime bundled, models download separately, offline after that, MIT"
+                 ],
+    "compare":  [
+                    "| Feature | **photo-revive** | Photoshop Neural Filters | MyHeritage | Web restore services |",
+                    "|---|:---:|:---:|:---:|:---:|",
+                    "| Price | **Free, MIT** | Paid subscription | Paid | Credits |",
+                    "| Open source | **Yes** | No | No | No",
+                    "| Photos stay local | **Yes** | Yes | Upload | Upload",
+                    "| Batch album runs | **Yes** | Manual | No | No",
+                    "| Colorize plus upscale in one pass | **Yes** | Separate filters | Yes | Partial",
+                    "| Portable, no install | **Yes, 100 MB** | Installer | Browser | Browser"
+                ],
+    "faqQ":  "how to restore old family photos without paying per image?",
+    "faqA":  "Restoration services charge per photo and want the family archive uploaded, and desktop suites cost a subscription. photo-revive denoises, upscales and colorizes locally with a face restore pass for portraits. It is a 100 MB portable exe, MIT, unlimited, offline — one evening restores the whole album.",
+    "s1":  "Dark studio (#121418, sepia #D97706): wipe divider over a restored portrait at 4x, pipeline toggles for denoise, upscale and colorize all on, face restore badge lit.",
+    "s2":  "Batch album view: 120 scans queued with previews, consistent settings locked, progress bar, ETA chip reading 22 minutes.",
+    "s3":  "Compare mode: original grayscale left, colorized right, strength slider at 0.7, detail zoom inset showing recovered facial texture."
+}
